@@ -1,0 +1,110 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/home/pedromn35/Desktop/Work/DappBootCamp/save-gas/contracts/Caching/Squaring.sol": {
+      "lastModificationDate": 1693381019250,
+      "contentHash": "d073965c06aff6c0efcec4ee6abfc45d",
+      "sourceName": "contracts/Caching/Squaring.sol",
+      "solcConfig": {
+        "version": "0.8.4",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.4"
+      ],
+      "artifacts": [
+        "Squaring"
+      ]
+    },
+    "/home/pedromn35/Desktop/Work/DappBootCamp/save-gas/contracts/Events/MarketplaceWithEvents.sol": {
+      "lastModificationDate": 1693381019250,
+      "contentHash": "81261a8e95247d55dcc58ebfa60053e6",
+      "sourceName": "contracts/Events/MarketplaceWithEvents.sol",
+      "solcConfig": {
+        "version": "0.8.4",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.4"
+      ],
+      "artifacts": [
+        "MarketplaceWithEvents"
+      ]
+    },
+    "/home/pedromn35/Desktop/Work/DappBootCamp/save-gas/contracts/Events/NoEventsMarketplace.sol": {
+      "lastModificationDate": 1693381019250,
+      "contentHash": "02e5af016e09351efd56ba8006f4d229",
+      "sourceName": "contracts/Events/NoEventsMarketplace.sol",
+      "solcConfig": {
+        "version": "0.8.4",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.4"
+      ],
+      "artifacts": [
+        "NoEventsMarketplace"
+      ]
+    }
+  }
+}
